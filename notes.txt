@@ -1,0 +1,9 @@
+From this Github entry:
+https://github.com/umihico/docker-selenium-lambda
+
+This one is interesting too
+https://github.com/diegoparrilla/headless-chrome-aws-lambda-layer
+
+Try this:
+https://www.youtube.com/watch?v=SfZh7C8tsgE
+https://www.youtube.com/watch?v=vgl9q5Ox5LE
